@@ -1,0 +1,15 @@
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+
+  padding: 10px;
+  margin: 0;
+}
+
+.cont {
+  height: 10vh;
+  width: 100%;
+  background-color: #0d1137;
+  color: #e52165;
+}

@@ -114,3 +114,15 @@
     flex-direction: column;
   }
 }
+
+.row {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.box {
+  border-bottom: 2px whitesmoke solid;
+}
